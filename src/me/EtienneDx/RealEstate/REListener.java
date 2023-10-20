@@ -493,6 +493,8 @@ public class REListener implements Listener
 					tr.preview(player);
 				else
 					tr.interact(player);
+
+				event.setCancelled(true);
 			}
 		}
 	}
