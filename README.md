@@ -1,5 +1,7 @@
 # RealEstate SUPPORTED FOR 1.19.4
 
+Btw idk when ill upload a compiled jar so compile it urself :)
+
 RealEstate is a spigot plugin built on top of GriefPrevention to provide players with an ability to sell and rent claims to other players.
 
 The plugin is documented in the [GitHub wiki](https://github.com/EtienneDx/RealEstate/wiki).
